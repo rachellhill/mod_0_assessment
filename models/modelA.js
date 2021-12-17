@@ -8,3 +8,5 @@ var dinosaurModel = {
   mapArea: ['Australia', 'North America', 'South America'],
   otherSpecies: ['Pterodactyl', 'Brachiosaurus', 'Raptor']
 }
+
+console.log(dinosaurModel);
